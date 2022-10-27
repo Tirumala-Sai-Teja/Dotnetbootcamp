@@ -1,0 +1,15 @@
+C:\Users\kvspr\source\repos\InterfaceAssignment\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.csproj.AssemblyReference.cache
+C:\Users\kvspr\source\repos\InterfaceAssignment\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kvspr\source\repos\InterfaceAssignment\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.AssemblyInfoInputs.cache
+C:\Users\kvspr\source\repos\InterfaceAssignment\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.AssemblyInfo.cs
+C:\Users\kvspr\source\repos\InterfaceAssignment\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kvspr\source\repos\InterfaceAssignment\InterfaceAssignment\bin\Debug\net6.0\InterfaceAssignment.exe
+C:\Users\kvspr\source\repos\InterfaceAssignment\InterfaceAssignment\bin\Debug\net6.0\InterfaceAssignment.deps.json
+C:\Users\kvspr\source\repos\InterfaceAssignment\InterfaceAssignment\bin\Debug\net6.0\InterfaceAssignment.runtimeconfig.json
+C:\Users\kvspr\source\repos\InterfaceAssignment\InterfaceAssignment\bin\Debug\net6.0\InterfaceAssignment.dll
+C:\Users\kvspr\source\repos\InterfaceAssignment\InterfaceAssignment\bin\Debug\net6.0\InterfaceAssignment.pdb
+C:\Users\kvspr\source\repos\InterfaceAssignment\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.dll
+C:\Users\kvspr\source\repos\InterfaceAssignment\InterfaceAssignment\obj\Debug\net6.0\refint\InterfaceAssignment.dll
+C:\Users\kvspr\source\repos\InterfaceAssignment\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.pdb
+C:\Users\kvspr\source\repos\InterfaceAssignment\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.genruntimeconfig.cache
+C:\Users\kvspr\source\repos\InterfaceAssignment\InterfaceAssignment\obj\Debug\net6.0\ref\InterfaceAssignment.dll
