@@ -1,0 +1,15 @@
+D:\DotNET\LINQAssignment\bin\Debug\net6.0\Day3Assinment.exe
+D:\DotNET\LINQAssignment\bin\Debug\net6.0\Day3Assinment.deps.json
+D:\DotNET\LINQAssignment\bin\Debug\net6.0\Day3Assinment.runtimeconfig.json
+D:\DotNET\LINQAssignment\bin\Debug\net6.0\Day3Assinment.dll
+D:\DotNET\LINQAssignment\bin\Debug\net6.0\Day3Assinment.pdb
+D:\DotNET\LINQAssignment\obj\Debug\net6.0\Day3Assinment.csproj.AssemblyReference.cache
+D:\DotNET\LINQAssignment\obj\Debug\net6.0\Day3Assinment.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET\LINQAssignment\obj\Debug\net6.0\Day3Assinment.AssemblyInfoInputs.cache
+D:\DotNET\LINQAssignment\obj\Debug\net6.0\Day3Assinment.AssemblyInfo.cs
+D:\DotNET\LINQAssignment\obj\Debug\net6.0\Day3Assinment.csproj.CoreCompileInputs.cache
+D:\DotNET\LINQAssignment\obj\Debug\net6.0\Day3Assinment.dll
+D:\DotNET\LINQAssignment\obj\Debug\net6.0\refint\Day3Assinment.dll
+D:\DotNET\LINQAssignment\obj\Debug\net6.0\Day3Assinment.pdb
+D:\DotNET\LINQAssignment\obj\Debug\net6.0\Day3Assinment.genruntimeconfig.cache
+D:\DotNET\LINQAssignment\obj\Debug\net6.0\ref\Day3Assinment.dll
